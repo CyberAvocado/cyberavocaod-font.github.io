@@ -1,3 +1,19 @@
+font-face {
+  font-family: 'CyberAvocado Fontr';
+  font-style: normal;
+  font-weight: normal;
+  src: url('https://cyberavocado.club/wp-content/uploads/fonts/CyberAvocado.woff2') format('woff2'),
+       url('https://cyberavocado.club/wp-content/uploads/fonts/CyberAvocado.woff') format('woff');
+}
+
+font-face {
+  font-family: 'CyberAvocado Font';
+  font-style: normal;
+  font-weight: normal;
+  src: url('https://cyberavocado.club/wp-content/uploads/fonts/CyberAvocado.woff2') format('woff2'),
+       url('https://cyberavocado.club/wp-content/uploads/fonts/CyberAvocado.woff') format('woff');
+}
+
 .u-section-1 .u-sheet-1 {
   min-height: 835px;
 }
